@@ -1,5 +1,8 @@
 Debian 11
 
+Show all logins nicely
+last
+
 Valid
 zgrep "Accepted" /var/log/auth.log*
 grep "Accepted" /var/log/auth.log
