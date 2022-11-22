@@ -1,7 +1,10 @@
 Debian 11
 
-Show all logins nicely
+Show all valid logins nicely
 last
+
+Show all not valid (attempts) logins nicely
+lastb
 
 Valid
 zgrep "Accepted" /var/log/auth.log*
