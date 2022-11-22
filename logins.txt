@@ -32,7 +32,7 @@ Important actions
 - abnormal appearence - runs only on a specific machine
 - abnormal behaivior
 - bad reputation
-- try to spread / move in the network (many abnormal connections)
+- try to spread / move in the network (many abnormal connections) (ntlm, smb, ps, psexec, wmi, rdp, brute-force, ssh)
 
 
 
