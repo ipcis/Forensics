@@ -1,0 +1,10 @@
+Debian 11
+
+Valid
+zgrep "Accepted" /var/log/auth.log*
+grep "Accepted" /var/log/auth.log
+
+Not valid
+grep "failure" /var/log/auth.log
+
+
