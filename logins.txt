@@ -14,3 +14,25 @@ Not valid
 grep "failure" /var/log/auth.log
 
 
+Deleted binaries still running
+ls -alR /proc/*/exe 2> /dev/null |  grep deleted
+
+
+Good cheatsheet
+https://gist.github.com/mihalyr/4ca176e868a71a8a575eb95b4fee88ca
+
+
+
+
+Important actions
+
+- persistants
+- network connections
+- runs from tmp dirs
+- abnormal appearence - runs only on a specific machine
+- abnormal behaivior
+- bad reputation
+
+
+
+
