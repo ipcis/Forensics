@@ -32,6 +32,7 @@ Important actions
 - abnormal appearence - runs only on a specific machine
 - abnormal behaivior
 - bad reputation
+- try to spread / move in the network (many abnormal connections)
 
 
 
