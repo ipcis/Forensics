@@ -1,0 +1,6 @@
+https://www.varonis.com/blog/memory-forensics
+
+https://r4bb1t.medium.com/acquiring-digital-evidence-on-windows-machines-bfcb493a105a
+
+https://github.com/Velocidex/WinPmem
+
