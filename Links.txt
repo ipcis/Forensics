@@ -5,3 +5,6 @@ https://r4bb1t.medium.com/acquiring-digital-evidence-on-windows-machines-bfcb493
 https://github.com/Velocidex/WinPmem
 
 https://corethreat.net/releases/tools/
+
+https://andreafortuna.org/2020/11/08/linux-forensics-memory-capture-and-analysis/
+
