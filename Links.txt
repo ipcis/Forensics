@@ -4,3 +4,4 @@ https://r4bb1t.medium.com/acquiring-digital-evidence-on-windows-machines-bfcb493
 
 https://github.com/Velocidex/WinPmem
 
+https://corethreat.net/releases/tools/
